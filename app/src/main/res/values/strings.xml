@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="stop_loading">stop loading</string>
 </resources>
