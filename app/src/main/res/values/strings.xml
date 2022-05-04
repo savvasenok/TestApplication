@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="request_permission">Request permission</string>
+    <string name="open_settings">Open settings</string>
+    <string name="reason_need_permission">Need permission to make an action</string>
+    <string name="reason_need_permission_not_granted">App can not function without that permission!</string>
 </resources>
